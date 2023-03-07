@@ -18,3 +18,7 @@ GIT ACCESS TOKEN
 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
 
 some lorem ipsum
+
+Horror Scope
+
+Pisces dont seek horror. 
